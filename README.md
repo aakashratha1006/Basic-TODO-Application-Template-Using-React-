@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/aakashratha1006/Basic-TODO-Application-Template-Using-React-.svg)](http://hits.dwyl.com/aakashratha1006/Basic-TODO-Application-Template-Using-React-)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
